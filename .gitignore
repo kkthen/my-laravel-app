@@ -4,3 +4,5 @@ Homestead.yaml
 Homestead.json
 .env
 .env.example
+cmd_git_bash.bat
+cmd_curr_folder.bat
